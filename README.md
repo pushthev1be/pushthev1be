@@ -1,5 +1,5 @@
 [ReadMe.md](https://github.com/user-attachments/files/27902535/ReadMe.md)
-# SIMON# 💫 About Me:
+# SIMON# 💫 About Me: www.simonolawuyi.com
 Solo full-stack dev & founder building Oracle Odds AI  an ML <br>sports prediction platform with 300+ users across 20+ countries. <br>Self-taught systems thinker shipping ~5 commits/day from <br>Indianapolis. Currently obsessed with autonomous ML pipelines, <br>edge functions, and turning ideas into products fast.
 
 
